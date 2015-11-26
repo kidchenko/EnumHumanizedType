@@ -1,0 +1,22 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "EnumHumanizedType.NH Class Library",
+  "authors": [ "kidchenko" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "System.Collections": "4.0.10-beta-23019",
+    "System.Linq": "4.0.0-beta-23019",
+    "System.Threading": "4.0.10-beta-23019",
+    "System.Runtime": "4.0.10-beta-23019",
+    "Microsoft.CSharp": "4.0.0-beta-23019",
+    "NHibernate": "4.0.4.4000",
+    "Humanizer": "1.37.7"
+  },
+
+  "frameworks": {
+    "dotnet": { }
+  }
+}
